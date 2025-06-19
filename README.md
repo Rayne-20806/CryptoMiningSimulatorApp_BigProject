@@ -1,0 +1,1 @@
+# CryptoMiningSimulatorApp_BigProject
